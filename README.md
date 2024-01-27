@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on academic research 
+- 🌱 I’m currently learning statistics 
+
+
 
 <!--
 **Mortal1877/Mortal1877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
